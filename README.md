@@ -35,8 +35,9 @@ A browser-based MRI scan classifier built with React and TensorFlow.js. Runs ful
 
 ## 📊 GitHub Stats
 
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=auysh8&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auysh8&layout=compact&theme=tokyonight&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auysh8&theme=tokyo-night&hide_border=true)](https://github.com/auysh8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=auysh8&color=58a6ff&style=flat)
 
 ---
 
