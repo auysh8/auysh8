@@ -1,7 +1,5 @@
 # Hey, I'm Pankaj 👋
-
-Final-year B.Tech IT student at G.B.P.U.A.T, Pantnagar.
-I build full-stack web apps using the MERN stack — React, Node.js, Express, and MongoDB.
+Full-Stack Software Engineer building scalable web applications, agentic AI workflows, and custom Linux environments. Proficient in the MERN stack, TypeScript, and Python.
 
 Currently open to **SDE / Full-Stack Developer roles (2026)**.
 
