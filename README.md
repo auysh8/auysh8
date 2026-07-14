@@ -7,17 +7,17 @@ Currently open to **SDE / Full-Stack Developer roles (2026)**.
 
 ## 🚀 Projects
 
-### 📝 [Notes App](https://github.com/auysh8/notes-app)
+### 📝 [Secure Notes Platform](https://github.com/auysh8/notes-app)
 Full-stack notes application with JWT-based authentication, protected REST API routes, and full CRUD operations.
 Built with the MERN stack — MongoDB, Express.js, React, and Node.js. Passwords hashed with bcrypt.
 `MongoDB` `Express.js` `React` `Node.js` `JWT` `REST API`
 
-### 🌤️ [Weather App](https://github.com/auysh8/weather-app)
+### 🌤️ [Live Weather Insights](https://github.com/auysh8/weather-app)
 Real-time weather forecast app using the OpenWeatherMap API. Shows temperature, humidity, and conditions for any city.
 Deployed live on GitHub Pages.
 `JavaScript` `HTML` `CSS` `REST API` `GitHub Pages`
 
-### 🧠 [Brain Tumor Detector](https://github.com/auysh8/brain-tumor-detector)
+### 🧠 [Browser ML Tumor Detector](https://github.com/auysh8/brain-tumor-detector)
 A browser-based MRI scan classifier built with React and TensorFlow.js. Runs fully client-side with no server required.
 `React` `TypeScript` `TensorFlow.js`
 
