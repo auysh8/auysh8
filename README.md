@@ -47,11 +47,4 @@ A browser-based MRI scan classifier built with React and TensorFlow.js. Runs ful
 
 ---
 
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajbhandari2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/auysh1993)
-
----
-
 *Open to work • Greater Delhi Area • India*
