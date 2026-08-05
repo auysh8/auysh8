@@ -1,44 +1,43 @@
-# Hey, I'm Pankaj Bhandari 👋
+# Pankaj Bhandari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/auysh8)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auysh8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auysh8)
+Software Engineer working on full-stack web applications, agentic AI workflows, and custom Linux environments. Primary stack includes Next.js, TypeScript, Node.js, and Python.
 
-Full-Stack Software Engineer building scalable web applications, agentic AI workflows, and custom Linux environments. Proficient in **Next.js**, **TypeScript**, **MERN stack**, and **Python**.
-
-🎯 Currently open to **SDE / Full-Stack Developer roles (2026)**.
+Currently open to SDE and Full-Stack Developer roles (2026).
 
 ---
 
-## ⚡ Quick Overview
-- 🔭 **Featured Project:** [AgentForge Studio](https://github.com/auysh8/agentforge-studio) — Visual AI agent workflow builder & pipeline execution engine
-- 🧠 **Core Focus:** Full-stack web development, reactive UI architecture, and LLM orchestration
-- 🐧 **Linux Enthusiast:** Custom Linux desktop environment ricing & automation (Hyprland / Quickshell)
-- 💬 **Ask me about:** React, Next.js, TypeScript, Node.js, and Agentic AI workflows
+## About
+
+- **Focus:** Building web applications, interactive visual tools, and AI pipeline orchestration engines.
+- **Interests:** Customizing Linux desktop environments (Hyprland / Quickshell) and system automation.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🛠️ [AgentForge Studio](https://github.com/auysh8/agentforge-studio) • [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://agentforge-studio-lime.vercel.app)
-Visual workflow builder and execution environment for designing, testing, and deploying custom AI agent orchestration pipelines. Features interactive drag-and-drop node graphs (`@xyflow/react`), multi-provider LLM integration (OpenAI, Gemini, Ollama), conditional branching, and real-time execution streaming.
-`Next.js` `TypeScript` `React Flow` `Zustand` `LangChain` `Ollama` `Vercel`
+### [AgentForge Studio](https://github.com/auysh8/agentforge-studio) • [Live Demo](https://agentforge-studio-lime.vercel.app)
+A visual workflow builder and execution environment for designing, testing, and deploying AI agent orchestration pipelines. Built with Next.js, TypeScript, React Flow (`@xyflow/react`), Zustand, and supports multi-provider LLM nodes (OpenAI, Gemini, Ollama) with real-time execution streaming.
 
-### 📝 [Secure Notes Platform](https://github.com/auysh8/secure-notes-platform)
-A full-stack notes application with JWT-based authentication, protected REST API routes, password hashing with bcrypt, and full CRUD capabilities.
-`MongoDB` `Express.js` `React` `Node.js` `TypeScript` `JWT` `REST API`
+`Next.js` `TypeScript` `React Flow` `Zustand` `Ollama` `Vercel`
 
-### 🧠 [Browser ML Tumor Detector](https://github.com/auysh8/browser-ml-tumor-detector)
-A browser-based MRI scan classifier built with React and TensorFlow.js. Performs client-side inference directly in the browser with zero backend requirements.
-`React` `TypeScript` `TensorFlow.js` `Vite` `Medical AI`
+### [Secure Notes Platform](https://github.com/auysh8/secure-notes-platform)
+A full-stack note-taking platform with JWT authentication, protected REST API endpoints, and password hashing using bcrypt.
 
-### 🌤️ [Live Weather Insights](https://github.com/auysh8/live-weather-insights)
-Real-time weather forecast app featuring hourly & multi-day forecasts powered by the OpenWeatherMap API.
-`React` `TypeScript` `Vite` `OpenWeatherMap API` `GitHub Pages`
+`MongoDB` `Express.js` `React` `Node.js` `TypeScript` `JWT`
+
+### [Browser ML Tumor Detector](https://github.com/auysh8/browser-ml-tumor-detector)
+A client-side MRI scan classifier built with React and TensorFlow.js. Performs machine learning inference directly inside the browser without requiring a backend server.
+
+`React` `TypeScript` `TensorFlow.js` `Vite`
+
+### [Live Weather Insights](https://github.com/auysh8/live-weather-insights)
+A real-time weather forecasting application providing hourly and multi-day forecasts using the OpenWeatherMap API.
+
+`React` `TypeScript` `Vite` `GitHub Pages`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,7 +53,7 @@ Real-time weather forecast app featuring hourly & multi-day forecasts powered by
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React_Flow-FF007A?style=for-the-badge&logo=reactflow&logoColor=white)
 
-### Database & Tooling
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,7 +61,7 @@ Real-time weather forecast app featuring hourly & multi-day forecasts powered by
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=auysh8&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
@@ -78,7 +77,3 @@ Real-time weather forecast app featuring hourly & multi-day forecasts powered by
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=auysh8&color=58a6ff&style=flat" alt="Profile Views" />
 </p>
-
----
-
-<p align="center"><i>Open to work • Greater Delhi Area, India</i></p>
