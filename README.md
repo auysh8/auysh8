@@ -1,4 +1,4 @@
-# Pankaj Bhandari
+# Pankaj Bhandari 
 
 Software Engineer working on full-stack web applications, agentic AI workflows, and custom Linux environments. Primary stack includes Next.js, TypeScript, Node.js, and Python.
 
